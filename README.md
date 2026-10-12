@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 2 th year (Sophomore)Software Engineering Student<br><br>🔭 Junior team member at DOU LOOP Team  <br>🌱 Currently learning Java, Spring Boot & Microservices Architecture  <br>⚙️ Interested in backend development, clean code and scalable systems  <br>📌 Actively building projects and improving problem-solving skills<br><br>FUN FACT: Love to solve LeetCode everyday.<br><br><br>
+🚀 3 th year Software Engineering Student<br><br>🔭 Junior team member at DOU LOOP Team  <br>🌱 Currently learning Java, Spring Boot & Microservices Architecture  <br>⚙️ Interested in backend development, clean code and scalable systems  <br>📌 Actively building projects and improving problem-solving skills<br><br>FUN FACT: Love to solve LeetCode everyday.<br><br><br>
 
 
 ## 🌐 Socials:
